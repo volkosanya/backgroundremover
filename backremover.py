@@ -42,9 +42,6 @@ class App(TkinterDnD.Tk):
         self.status_label = tk.Label(self, text="", padx=10, pady=10)
         self.status_label.pack(expand=True, fill=tk.BOTH)
 
-        # Set the window icon
-        self.iconbitmap(r'C:\Users\vvolk\Desktop\background remover\eraser-icon.ico')
-
     def drop(self, event):
         # Reset the counters at the start of a new drop event
         self.total_files = 0
