@@ -17,3 +17,4 @@ This project is a simple tool for removing backgrounds from images using the `re
 - **rembg**: Library for removing image backgrounds.
 - **tkinter**: Standard GUI toolkit for Python.
 - **tkinterdnd2**: Extension to tkinter for adding drag-and-drop functionality.
+![bgremover](https://github.com/volkosanya/backgroundremover/assets/144706340/11e76668-e7f7-461e-aa5f-931ed30d9787)
